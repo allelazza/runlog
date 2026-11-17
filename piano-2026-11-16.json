@@ -1,0 +1,1086 @@
+[
+ {
+  "w": 1,
+  "phase": "recovery",
+  "title": "Rientro — solo corsa facile",
+  "info": "Regole del rientro: dolore in corsa ≤3–4/10, torna alla base entro 24 h, rigidità del mattino non in aumento. Se una regola salta, ripeti la settimana invece di salire.",
+  "sessions": [
+   {
+    "d": 0,
+    "type": "gym",
+    "k": "gym",
+    "label": "Forza + tendine",
+    "desc": "Calf raise lento 3×15 (variante concordata con la fisio) · Isometrico in punta 3×40\" · Glute Bridge 3×15 · Dead Bug 3×8/lato",
+    "note": "20 minuti. Opzionale ma è ciò che protegge il tendine"
+   },
+   {
+    "d": 1,
+    "type": "easy",
+    "k": "easy",
+    "label": "Corsa facile",
+    "km": 5,
+    "pace": "5:50",
+    "desc": "5 km facili @ 5:50 o più lento",
+    "note": "Si riparte: conta la regolarità, non il ritmo"
+   },
+   {
+    "d": 2,
+    "type": "calcio",
+    "k": "calcio",
+    "label": "Calcio a 7",
+    "desc": "Partita: massimo 15 minuti",
+    "note": "Sali di minuti solo se nelle 24 h dopo la caviglia non peggiora"
+   },
+   {
+    "d": 3,
+    "type": "gym",
+    "k": "gym",
+    "label": "Mobilità + core",
+    "desc": "Couch Stretch 2 min/lato · Bird Dog 3×10/lato · Equilibrio su una gamba 3×40\" · Eversione con elastico 3×15/lato",
+    "note": "Opzionale"
+   },
+   {
+    "d": 4,
+    "type": "easy",
+    "k": "easy",
+    "label": "Corsa facile",
+    "km": 5,
+    "pace": "5:50",
+    "desc": "5 km facili @ 5:50 o più lento",
+    "note": "È l'uscita sacrificabile: se dopo il calcio caviglia o tendine protestano, accorciala o saltala"
+   },
+   {
+    "d": 6,
+    "type": "long",
+    "k": "long",
+    "label": "Lungo",
+    "km": 6,
+    "pace": "5:50",
+    "desc": "6 km facili @ 5:50",
+    "note": "Stesso ritmo delle altre uscite: conta il tempo in piedi"
+   }
+  ]
+ },
+ {
+  "w": 2,
+  "phase": "recovery",
+  "title": "Rientro — solo corsa facile",
+  "info": "",
+  "sessions": [
+   {
+    "d": 0,
+    "type": "gym",
+    "k": "gym",
+    "label": "Forza + tendine",
+    "desc": "Calf raise lento 3×15 (variante concordata con la fisio) · Isometrico in punta 3×40\" · Glute Bridge 3×15 · Dead Bug 3×8/lato",
+    "note": "20 minuti. Opzionale ma è ciò che protegge il tendine"
+   },
+   {
+    "d": 1,
+    "type": "easy",
+    "k": "easy",
+    "label": "Corsa facile",
+    "km": 5,
+    "pace": "5:50",
+    "desc": "5 km facili @ 5:50 o più lento",
+    "note": "Isometrico in punta 3×30\" prima di uscire"
+   },
+   {
+    "d": 2,
+    "type": "calcio",
+    "k": "calcio",
+    "label": "Calcio a 7",
+    "desc": "Partita: massimo 20 minuti",
+    "note": "Sali di minuti solo se nelle 24 h dopo la caviglia non peggiora"
+   },
+   {
+    "d": 3,
+    "type": "gym",
+    "k": "gym",
+    "label": "Mobilità + core",
+    "desc": "Couch Stretch 2 min/lato · Bird Dog 3×10/lato · Equilibrio su una gamba 3×40\" · Eversione con elastico 3×15/lato",
+    "note": "Opzionale"
+   },
+   {
+    "d": 4,
+    "type": "easy",
+    "k": "easy",
+    "label": "Corsa facile",
+    "km": 6,
+    "pace": "5:50",
+    "desc": "6 km facili @ 5:50 o più lento",
+    "note": "È l'uscita sacrificabile: se dopo il calcio caviglia o tendine protestano, accorciala o saltala"
+   },
+   {
+    "d": 6,
+    "type": "long",
+    "k": "long",
+    "label": "Lungo",
+    "km": 7,
+    "pace": "5:50",
+    "desc": "7 km facili @ 5:50",
+    "note": "Stesso ritmo delle altre uscite: conta il tempo in piedi"
+   }
+  ]
+ },
+ {
+  "w": 3,
+  "phase": "recovery",
+  "title": "Rientro — solo corsa facile",
+  "info": "",
+  "sessions": [
+   {
+    "d": 0,
+    "type": "gym",
+    "k": "gym",
+    "label": "Forza + tendine",
+    "desc": "Calf raise lento 3×15 (variante concordata con la fisio) · Isometrico in punta 3×40\" · Glute Bridge 3×15 · Dead Bug 3×8/lato",
+    "note": "20 minuti. Opzionale ma è ciò che protegge il tendine"
+   },
+   {
+    "d": 1,
+    "type": "easy",
+    "k": "easy",
+    "label": "Corsa facile",
+    "km": 6,
+    "pace": "5:50",
+    "desc": "6 km facili @ 5:50 o più lento",
+    "note": "Isometrico in punta 3×30\" prima di uscire"
+   },
+   {
+    "d": 2,
+    "type": "calcio",
+    "k": "calcio",
+    "label": "Calcio a 7",
+    "desc": "Partita: massimo 25 minuti",
+    "note": "Sali di minuti solo se nelle 24 h dopo la caviglia non peggiora"
+   },
+   {
+    "d": 3,
+    "type": "gym",
+    "k": "gym",
+    "label": "Mobilità + core",
+    "desc": "Couch Stretch 2 min/lato · Bird Dog 3×10/lato · Equilibrio su una gamba 3×40\" · Eversione con elastico 3×15/lato",
+    "note": "Opzionale"
+   },
+   {
+    "d": 4,
+    "type": "easy",
+    "k": "easy",
+    "label": "Corsa facile",
+    "km": 6,
+    "pace": "5:50",
+    "desc": "6 km facili @ 5:50 o più lento",
+    "note": "È l'uscita sacrificabile: se dopo il calcio caviglia o tendine protestano, accorciala o saltala"
+   },
+   {
+    "d": 6,
+    "type": "long",
+    "k": "long",
+    "label": "Lungo",
+    "km": 8,
+    "pace": "5:50",
+    "desc": "8 km facili @ 5:50",
+    "note": "Stesso ritmo delle altre uscite: conta il tempo in piedi"
+   }
+  ]
+ },
+ {
+  "w": 4,
+  "phase": "recovery",
+  "title": "Scarico",
+  "info": "",
+  "sessions": [
+   {
+    "d": 0,
+    "type": "gym",
+    "k": "gym",
+    "label": "Forza + tendine",
+    "desc": "Calf raise lento 3×15 (variante concordata con la fisio) · Isometrico in punta 3×40\" · Glute Bridge 3×15 · Dead Bug 3×8/lato",
+    "note": "20 minuti. Opzionale ma è ciò che protegge il tendine"
+   },
+   {
+    "d": 1,
+    "type": "easy",
+    "k": "easy",
+    "label": "Corsa facile",
+    "km": 5,
+    "pace": "5:50",
+    "desc": "5 km facili @ 5:50 o più lento",
+    "note": "Isometrico in punta 3×30\" prima di uscire"
+   },
+   {
+    "d": 2,
+    "type": "calcio",
+    "k": "calcio",
+    "label": "Calcio a 7",
+    "desc": "Partita: massimo 30 minuti",
+    "note": "Sali di minuti solo se nelle 24 h dopo la caviglia non peggiora"
+   },
+   {
+    "d": 3,
+    "type": "gym",
+    "k": "gym",
+    "label": "Mobilità + core",
+    "desc": "Couch Stretch 2 min/lato · Bird Dog 3×10/lato · Equilibrio su una gamba 3×40\" · Eversione con elastico 3×15/lato",
+    "note": "Opzionale"
+   },
+   {
+    "d": 4,
+    "type": "easy",
+    "k": "easy",
+    "label": "Corsa facile",
+    "km": 5,
+    "pace": "5:50",
+    "desc": "5 km facili @ 5:50 o più lento",
+    "note": "È l'uscita sacrificabile: se dopo il calcio caviglia o tendine protestano, accorciala o saltala"
+   },
+   {
+    "d": 6,
+    "type": "long",
+    "k": "long",
+    "label": "Lungo",
+    "km": 6,
+    "pace": "5:50",
+    "desc": "6 km facili @ 5:50",
+    "note": "Stesso ritmo delle altre uscite: conta il tempo in piedi"
+   }
+  ]
+ },
+ {
+  "w": 5,
+  "phase": "base",
+  "title": "Base aerobica — allunghi e progressivi",
+  "info": "",
+  "sessions": [
+   {
+    "d": 0,
+    "type": "gym",
+    "k": "gym",
+    "label": "Forza + tendine",
+    "desc": "Calf raise lento 3×15 (variante concordata con la fisio) · Isometrico in punta 3×40\" · Glute Bridge 3×15 · Dead Bug 3×8/lato",
+    "note": "20 minuti. Opzionale ma è ciò che protegge il tendine"
+   },
+   {
+    "d": 1,
+    "type": "easy",
+    "k": "easy",
+    "label": "Facile + allunghi",
+    "km": 6,
+    "pace": "5:50",
+    "desc": "6 km facili @ 5:50 o più lento + 6 allunghi da 20\" (recupero 60\" camminando)",
+    "note": "Allunghi = progressione sciolta, non sprint. Su fondo piano"
+   },
+   {
+    "d": 2,
+    "type": "calcio",
+    "k": "calcio",
+    "label": "Calcio a 7",
+    "desc": "Partita: massimo 40 minuti",
+    "note": "Sali di minuti solo se nelle 24 h dopo la caviglia non peggiora"
+   },
+   {
+    "d": 3,
+    "type": "gym",
+    "k": "gym",
+    "label": "Mobilità + core",
+    "desc": "Couch Stretch 2 min/lato · Bird Dog 3×10/lato · Equilibrio su una gamba 3×40\" · Eversione con elastico 3×15/lato",
+    "note": "Opzionale"
+   },
+   {
+    "d": 4,
+    "type": "easy",
+    "k": "easy",
+    "label": "Corsa facile",
+    "km": 6,
+    "pace": "5:50",
+    "desc": "6 km facili @ 5:50 o più lento",
+    "note": "È l'uscita sacrificabile: se dopo il calcio caviglia o tendine protestano, accorciala o saltala"
+   },
+   {
+    "d": 6,
+    "type": "long",
+    "k": "long",
+    "label": "Lungo",
+    "km": 9,
+    "pace": "5:50",
+    "desc": "9 km facili @ 5:50",
+    "note": "Stesso ritmo delle altre uscite: conta il tempo in piedi"
+   }
+  ]
+ },
+ {
+  "w": 6,
+  "phase": "base",
+  "title": "Base aerobica — allunghi e progressivi",
+  "info": "",
+  "sessions": [
+   {
+    "d": 0,
+    "type": "gym",
+    "k": "gym",
+    "label": "Forza + tendine",
+    "desc": "Calf raise lento 3×15 (variante concordata con la fisio) · Isometrico in punta 3×40\" · Glute Bridge 3×15 · Dead Bug 3×8/lato",
+    "note": "20 minuti. Opzionale ma è ciò che protegge il tendine"
+   },
+   {
+    "d": 1,
+    "type": "easy",
+    "k": "easy",
+    "label": "Facile + allunghi",
+    "km": 7,
+    "pace": "5:50",
+    "desc": "7 km facili @ 5:50 o più lento + 6 allunghi da 20\" (recupero 60\" camminando)",
+    "note": "Allunghi = progressione sciolta, non sprint. Su fondo piano"
+   },
+   {
+    "d": 2,
+    "type": "calcio",
+    "k": "calcio",
+    "label": "Calcio a 7",
+    "desc": "Partita: massimo 50 minuti",
+    "note": "Sali di minuti solo se nelle 24 h dopo la caviglia non peggiora"
+   },
+   {
+    "d": 3,
+    "type": "gym",
+    "k": "gym",
+    "label": "Mobilità + core",
+    "desc": "Couch Stretch 2 min/lato · Bird Dog 3×10/lato · Equilibrio su una gamba 3×40\" · Eversione con elastico 3×15/lato",
+    "note": "Opzionale"
+   },
+   {
+    "d": 4,
+    "type": "medium",
+    "k": "prog",
+    "label": "Progressivo dolce",
+    "km": 7,
+    "pace": "5:40",
+    "desc": "7 km: 5 facili @ 5:50 + ultimi 2 km @ 5:15",
+    "note": "Il finale è \"brillante\", non tirato"
+   },
+   {
+    "d": 6,
+    "type": "long",
+    "k": "long",
+    "label": "Lungo",
+    "km": 10,
+    "pace": "5:50",
+    "desc": "10 km facili @ 5:50",
+    "note": "Stesso ritmo delle altre uscite: conta il tempo in piedi"
+   }
+  ]
+ },
+ {
+  "w": 7,
+  "phase": "base",
+  "title": "Base aerobica — allunghi e progressivi",
+  "info": "",
+  "sessions": [
+   {
+    "d": 0,
+    "type": "gym",
+    "k": "gym",
+    "label": "Forza + tendine",
+    "desc": "Calf raise lento 3×15 (variante concordata con la fisio) · Isometrico in punta 3×40\" · Glute Bridge 3×15 · Dead Bug 3×8/lato",
+    "note": "20 minuti. Opzionale ma è ciò che protegge il tendine"
+   },
+   {
+    "d": 1,
+    "type": "easy",
+    "k": "easy",
+    "label": "Facile + allunghi",
+    "km": 7,
+    "pace": "5:50",
+    "desc": "7 km facili @ 5:50 o più lento + 6 allunghi da 20\" (recupero 60\" camminando)",
+    "note": "Allunghi = progressione sciolta, non sprint. Su fondo piano"
+   },
+   {
+    "d": 2,
+    "type": "calcio",
+    "k": "calcio",
+    "label": "Calcio a 7",
+    "desc": "Partita intera, se la caviglia regge",
+    "note": "Sali di minuti solo se nelle 24 h dopo la caviglia non peggiora"
+   },
+   {
+    "d": 3,
+    "type": "gym",
+    "k": "gym",
+    "label": "Mobilità + core",
+    "desc": "Couch Stretch 2 min/lato · Bird Dog 3×10/lato · Equilibrio su una gamba 3×40\" · Eversione con elastico 3×15/lato",
+    "note": "Opzionale"
+   },
+   {
+    "d": 4,
+    "type": "medium",
+    "k": "prog",
+    "label": "Progressivo dolce",
+    "km": 8,
+    "pace": "5:37",
+    "desc": "8 km: 5 facili @ 5:50 + ultimi 3 km @ 5:15",
+    "note": "Il finale è \"brillante\", non tirato"
+   },
+   {
+    "d": 6,
+    "type": "long",
+    "k": "long",
+    "label": "Lungo",
+    "km": 12,
+    "pace": "5:50",
+    "desc": "12 km facili @ 5:50",
+    "note": "Stesso ritmo delle altre uscite: conta il tempo in piedi"
+   }
+  ]
+ },
+ {
+  "w": 8,
+  "phase": "base",
+  "title": "Scarico + verifica tendine",
+  "info": "Verifica prima della qualità: guarda gli ultimi 14 check mattutini e il test settimanale. Se il tendine è stabile, dalla prossima settimana partono tempo e ripetute. Se non lo è, rimandale: Rigenera da qui con \"Solo corsa facile per 4 settimane\".",
+  "sessions": [
+   {
+    "d": 0,
+    "type": "gym",
+    "k": "gym",
+    "label": "Forza + tendine",
+    "desc": "Calf raise lento 3×15 (variante concordata con la fisio) · Isometrico in punta 3×40\" · Glute Bridge 3×15 · Dead Bug 3×8/lato",
+    "note": "20 minuti. Opzionale ma è ciò che protegge il tendine"
+   },
+   {
+    "d": 1,
+    "type": "easy",
+    "k": "easy",
+    "label": "Facile + allunghi",
+    "km": 6,
+    "pace": "5:50",
+    "desc": "6 km facili @ 5:50 o più lento + 4 allunghi da 20\" (recupero 60\" camminando)",
+    "note": "Allunghi = progressione sciolta, non sprint. Su fondo piano"
+   },
+   {
+    "d": 2,
+    "type": "calcio",
+    "k": "calcio",
+    "label": "Calcio a 7",
+    "desc": "Partita intera, se la caviglia regge",
+    "note": "Sali di minuti solo se nelle 24 h dopo la caviglia non peggiora"
+   },
+   {
+    "d": 3,
+    "type": "gym",
+    "k": "gym",
+    "label": "Mobilità + core",
+    "desc": "Couch Stretch 2 min/lato · Bird Dog 3×10/lato · Equilibrio su una gamba 3×40\" · Eversione con elastico 3×15/lato",
+    "note": "Opzionale"
+   },
+   {
+    "d": 4,
+    "type": "easy",
+    "k": "easy",
+    "label": "Corsa facile",
+    "km": 6,
+    "pace": "5:50",
+    "desc": "6 km facili @ 5:50 o più lento",
+    "note": "È l'uscita sacrificabile: se dopo il calcio caviglia o tendine protestano, accorciala o saltala"
+   },
+   {
+    "d": 6,
+    "type": "long",
+    "k": "long",
+    "label": "Lungo",
+    "km": 9,
+    "pace": "5:50",
+    "desc": "9 km facili @ 5:50",
+    "note": "Stesso ritmo delle altre uscite: conta il tempo in piedi"
+   }
+  ]
+ },
+ {
+  "w": 9,
+  "phase": "buildup",
+  "title": "Costruzione mezza",
+  "info": "",
+  "sessions": [
+   {
+    "d": 0,
+    "type": "gym",
+    "k": "gym",
+    "label": "Forza + tendine",
+    "desc": "Calf raise lento con carico 3×12 (se ok fisio) · Squat 3×10 · Stacchi rumeni 3×10 · Dead Bug 3×8/lato",
+    "note": "20 minuti. Opzionale ma è ciò che protegge il tendine"
+   },
+   {
+    "d": 1,
+    "type": "medium",
+    "k": "tempo",
+    "label": "Tempo dolce",
+    "km": 6,
+    "pace": "4:50",
+    "desc": "2 km riscaldamento + 3 km @ 4:50 (soglia) + 1 km defaticamento",
+    "note": "Prima qualità: prudenza, fermati se il dolore supera 4/10"
+   },
+   {
+    "d": 2,
+    "type": "calcio",
+    "k": "calcio",
+    "label": "Calcio a 7",
+    "desc": "Partita intera, se la caviglia regge",
+    "note": "Sali di minuti solo se nelle 24 h dopo la caviglia non peggiora"
+   },
+   {
+    "d": 3,
+    "type": "gym",
+    "k": "gym",
+    "label": "Mobilità + core",
+    "desc": "Couch Stretch 2 min/lato · Bird Dog 3×10/lato · Equilibrio su una gamba 3×40\" · Eversione con elastico 3×15/lato",
+    "note": "Opzionale"
+   },
+   {
+    "d": 4,
+    "type": "easy",
+    "k": "easy",
+    "label": "Corsa facile",
+    "km": 7,
+    "pace": "5:50",
+    "desc": "7 km facili @ 5:50 o più lento + 4 allunghi",
+    "note": "È l'uscita sacrificabile: se dopo il calcio caviglia o tendine protestano, accorciala o saltala"
+   },
+   {
+    "d": 6,
+    "type": "long",
+    "k": "long",
+    "label": "Lungo",
+    "km": 13,
+    "pace": "5:30",
+    "desc": "13 km @ 5:30",
+    "note": "Regolare, respirazione comoda"
+   }
+  ]
+ },
+ {
+  "w": 10,
+  "phase": "buildup",
+  "title": "Costruzione mezza",
+  "info": "",
+  "sessions": [
+   {
+    "d": 0,
+    "type": "gym",
+    "k": "gym",
+    "label": "Forza + tendine",
+    "desc": "Calf raise lento con carico 3×12 (se ok fisio) · Squat 3×10 · Stacchi rumeni 3×10 · Dead Bug 3×8/lato",
+    "note": "20 minuti. Opzionale ma è ciò che protegge il tendine"
+   },
+   {
+    "d": 1,
+    "type": "hard",
+    "k": "rep",
+    "label": "Ripetute 6×400 m",
+    "km": 6.5,
+    "pace": "4:00",
+    "desc": "2 km riscaldamento + 6×400 m @ 4:00 (recupero 1'30\" di corsetta) + 1 km defaticamento",
+    "note": "Fermati se il dolore supera 4/10 o cambia la falcata"
+   },
+   {
+    "d": 2,
+    "type": "calcio",
+    "k": "calcio",
+    "label": "Calcio a 7",
+    "desc": "Partita intera, se la caviglia regge",
+    "note": "Sali di minuti solo se nelle 24 h dopo la caviglia non peggiora"
+   },
+   {
+    "d": 3,
+    "type": "gym",
+    "k": "gym",
+    "label": "Mobilità + core",
+    "desc": "Couch Stretch 2 min/lato · Bird Dog 3×10/lato · Equilibrio su una gamba 3×40\" · Eversione con elastico 3×15/lato",
+    "note": "Opzionale"
+   },
+   {
+    "d": 4,
+    "type": "medium",
+    "k": "hm",
+    "label": "Ritmo mezza",
+    "km": 7,
+    "pace": "4:45",
+    "desc": "2 km riscaldamento + 4 km @ 4:45 (ritmo mezza) + 1 km defaticamento",
+    "note": "Se il tendine protesta dopo il calcio: trasformala in corsa facile"
+   },
+   {
+    "d": 6,
+    "type": "long",
+    "k": "long",
+    "label": "Lungo",
+    "km": 14,
+    "pace": "5:30",
+    "desc": "14 km @ 5:30",
+    "note": "Regolare, respirazione comoda"
+   }
+  ]
+ },
+ {
+  "w": 11,
+  "phase": "buildup",
+  "title": "Costruzione mezza",
+  "info": "",
+  "sessions": [
+   {
+    "d": 0,
+    "type": "gym",
+    "k": "gym",
+    "label": "Forza + tendine",
+    "desc": "Calf raise lento con carico 3×12 (se ok fisio) · Squat 3×10 · Stacchi rumeni 3×10 · Dead Bug 3×8/lato",
+    "note": "20 minuti. Opzionale ma è ciò che protegge il tendine"
+   },
+   {
+    "d": 1,
+    "type": "medium",
+    "k": "tempo",
+    "label": "Tempo run",
+    "km": 7,
+    "pace": "4:50",
+    "desc": "2 km riscaldamento + 4 km @ 4:50 (soglia) + 1 km defaticamento",
+    "note": "Fermati se il dolore supera 4/10 o cambia la falcata"
+   },
+   {
+    "d": 2,
+    "type": "calcio",
+    "k": "calcio",
+    "label": "Calcio a 7",
+    "desc": "Partita intera, se la caviglia regge",
+    "note": "Sali di minuti solo se nelle 24 h dopo la caviglia non peggiora"
+   },
+   {
+    "d": 3,
+    "type": "gym",
+    "k": "gym",
+    "label": "Mobilità + core",
+    "desc": "Couch Stretch 2 min/lato · Bird Dog 3×10/lato · Equilibrio su una gamba 3×40\" · Eversione con elastico 3×15/lato",
+    "note": "Opzionale"
+   },
+   {
+    "d": 4,
+    "type": "easy",
+    "k": "easy",
+    "label": "Corsa facile",
+    "km": 8,
+    "pace": "5:50",
+    "desc": "8 km facili @ 5:50 o più lento + 4 allunghi",
+    "note": "È l'uscita sacrificabile: se dopo il calcio caviglia o tendine protestano, accorciala o saltala"
+   },
+   {
+    "d": 6,
+    "type": "long",
+    "k": "long",
+    "label": "Lungo",
+    "km": 16,
+    "pace": "5:30",
+    "desc": "16 km @ 5:30",
+    "note": "Regolare, respirazione comoda"
+   }
+  ]
+ },
+ {
+  "w": 12,
+  "phase": "buildup",
+  "title": "Scarico",
+  "info": "",
+  "sessions": [
+   {
+    "d": 0,
+    "type": "gym",
+    "k": "gym",
+    "label": "Forza + tendine",
+    "desc": "Calf raise lento con carico 3×12 (se ok fisio) · Squat 3×10 · Stacchi rumeni 3×10 · Dead Bug 3×8/lato",
+    "note": "20 minuti. Opzionale ma è ciò che protegge il tendine"
+   },
+   {
+    "d": 1,
+    "type": "hard",
+    "k": "rep",
+    "label": "Ripetute leggere 5×400 m",
+    "km": 6,
+    "pace": "4:00",
+    "desc": "2 km riscaldamento + 5×400 m @ 4:00 (recupero 1'30\" di corsetta) + 1 km defaticamento",
+    "note": "Fermati se il dolore supera 4/10 o cambia la falcata"
+   },
+   {
+    "d": 2,
+    "type": "calcio",
+    "k": "calcio",
+    "label": "Calcio a 7",
+    "desc": "Partita intera, se la caviglia regge",
+    "note": "Sali di minuti solo se nelle 24 h dopo la caviglia non peggiora"
+   },
+   {
+    "d": 3,
+    "type": "gym",
+    "k": "gym",
+    "label": "Mobilità + core",
+    "desc": "Couch Stretch 2 min/lato · Bird Dog 3×10/lato · Equilibrio su una gamba 3×40\" · Eversione con elastico 3×15/lato",
+    "note": "Opzionale"
+   },
+   {
+    "d": 4,
+    "type": "easy",
+    "k": "easy",
+    "label": "Corsa facile",
+    "km": 6,
+    "pace": "5:50",
+    "desc": "6 km facili @ 5:50 o più lento",
+    "note": "È l'uscita sacrificabile: se dopo il calcio caviglia o tendine protestano, accorciala o saltala"
+   },
+   {
+    "d": 6,
+    "type": "long",
+    "k": "long",
+    "label": "Lungo",
+    "km": 12,
+    "pace": "5:30",
+    "desc": "12 km @ 5:30",
+    "note": "Regolare, respirazione comoda"
+   }
+  ]
+ },
+ {
+  "w": 13,
+  "phase": "buildup",
+  "title": "Costruzione mezza",
+  "info": "",
+  "sessions": [
+   {
+    "d": 0,
+    "type": "gym",
+    "k": "gym",
+    "label": "Forza + tendine",
+    "desc": "Calf raise lento con carico 3×12 (se ok fisio) · Squat 3×10 · Stacchi rumeni 3×10 · Dead Bug 3×8/lato",
+    "note": "20 minuti. Opzionale ma è ciò che protegge il tendine"
+   },
+   {
+    "d": 1,
+    "type": "hard",
+    "k": "rep",
+    "label": "Ripetute 5×800 m",
+    "km": 8.5,
+    "pace": "4:05",
+    "desc": "2 km riscaldamento + 5×800 m @ 4:05 (recupero 2' di corsetta) + 1 km defaticamento",
+    "note": "Fermati se il dolore supera 4/10 o cambia la falcata"
+   },
+   {
+    "d": 2,
+    "type": "calcio",
+    "k": "calcio",
+    "label": "Calcio a 7",
+    "desc": "Partita intera, se la caviglia regge",
+    "note": "Sali di minuti solo se nelle 24 h dopo la caviglia non peggiora"
+   },
+   {
+    "d": 3,
+    "type": "gym",
+    "k": "gym",
+    "label": "Mobilità + core",
+    "desc": "Couch Stretch 2 min/lato · Bird Dog 3×10/lato · Equilibrio su una gamba 3×40\" · Eversione con elastico 3×15/lato",
+    "note": "Opzionale"
+   },
+   {
+    "d": 4,
+    "type": "medium",
+    "k": "hm",
+    "label": "Ritmo mezza",
+    "km": 8,
+    "pace": "4:45",
+    "desc": "2 km riscaldamento + 5 km @ 4:45 (ritmo mezza) + 1 km defaticamento",
+    "note": "Se il tendine protesta dopo il calcio: trasformala in corsa facile"
+   },
+   {
+    "d": 6,
+    "type": "long",
+    "k": "long",
+    "label": "Lungo",
+    "km": 17,
+    "pace": "5:30",
+    "desc": "17 km @ 5:30",
+    "note": "Regolare, respirazione comoda"
+   }
+  ]
+ },
+ {
+  "w": 14,
+  "phase": "buildup",
+  "title": "Costruzione mezza",
+  "info": "",
+  "sessions": [
+   {
+    "d": 0,
+    "type": "gym",
+    "k": "gym",
+    "label": "Forza + tendine",
+    "desc": "Calf raise lento con carico 3×12 (se ok fisio) · Squat 3×10 · Stacchi rumeni 3×10 · Dead Bug 3×8/lato",
+    "note": "20 minuti. Opzionale ma è ciò che protegge il tendine"
+   },
+   {
+    "d": 1,
+    "type": "medium",
+    "k": "tempo",
+    "label": "Tempo run",
+    "km": 8,
+    "pace": "4:50",
+    "desc": "2 km riscaldamento + 5 km @ 4:50 (soglia) + 1 km defaticamento",
+    "note": "Fermati se il dolore supera 4/10 o cambia la falcata"
+   },
+   {
+    "d": 2,
+    "type": "calcio",
+    "k": "calcio",
+    "label": "Calcio a 7",
+    "desc": "Partita intera, se la caviglia regge",
+    "note": "Sali di minuti solo se nelle 24 h dopo la caviglia non peggiora"
+   },
+   {
+    "d": 3,
+    "type": "gym",
+    "k": "gym",
+    "label": "Mobilità + core",
+    "desc": "Couch Stretch 2 min/lato · Bird Dog 3×10/lato · Equilibrio su una gamba 3×40\" · Eversione con elastico 3×15/lato",
+    "note": "Opzionale"
+   },
+   {
+    "d": 4,
+    "type": "easy",
+    "k": "easy",
+    "label": "Corsa facile",
+    "km": 9,
+    "pace": "5:50",
+    "desc": "9 km facili @ 5:50 o più lento + 4 allunghi",
+    "note": "È l'uscita sacrificabile: se dopo il calcio caviglia o tendine protestano, accorciala o saltala"
+   },
+   {
+    "d": 6,
+    "type": "long",
+    "k": "long",
+    "label": "Lungo",
+    "km": 18,
+    "pace": "5:30",
+    "desc": "18 km @ 5:30",
+    "note": "Regolare, respirazione comoda"
+   }
+  ]
+ },
+ {
+  "w": 15,
+  "phase": "buildup",
+  "title": "Costruzione mezza",
+  "info": "",
+  "sessions": [
+   {
+    "d": 0,
+    "type": "gym",
+    "k": "gym",
+    "label": "Forza + tendine",
+    "desc": "Calf raise lento con carico 3×12 (se ok fisio) · Squat 3×10 · Stacchi rumeni 3×10 · Dead Bug 3×8/lato",
+    "note": "20 minuti. Opzionale ma è ciò che protegge il tendine"
+   },
+   {
+    "d": 1,
+    "type": "hard",
+    "k": "rep",
+    "label": "Ripetute 4×1000 m",
+    "km": 8,
+    "pace": "4:05",
+    "desc": "2 km riscaldamento + 4×1000 m @ 4:05 (recupero 2'30\" di corsetta) + 1 km defaticamento",
+    "note": "Fermati se il dolore supera 4/10 o cambia la falcata"
+   },
+   {
+    "d": 2,
+    "type": "calcio",
+    "k": "calcio",
+    "label": "Calcio a 7",
+    "desc": "Partita intera, se la caviglia regge",
+    "note": "Sali di minuti solo se nelle 24 h dopo la caviglia non peggiora"
+   },
+   {
+    "d": 3,
+    "type": "gym",
+    "k": "gym",
+    "label": "Mobilità + core",
+    "desc": "Couch Stretch 2 min/lato · Bird Dog 3×10/lato · Equilibrio su una gamba 3×40\" · Eversione con elastico 3×15/lato",
+    "note": "Opzionale"
+   },
+   {
+    "d": 4,
+    "type": "medium",
+    "k": "hm",
+    "label": "Ritmo mezza",
+    "km": 9,
+    "pace": "4:45",
+    "desc": "2 km riscaldamento + 6 km @ 4:45 (ritmo mezza) + 1 km defaticamento",
+    "note": "Se il tendine protesta dopo il calcio: trasformala in corsa facile"
+   },
+   {
+    "d": 6,
+    "type": "long",
+    "k": "long",
+    "label": "Lungo",
+    "km": 18,
+    "pace": "5:30",
+    "desc": "18 km @ 5:30",
+    "note": "Regolare, respirazione comoda"
+   }
+  ]
+ },
+ {
+  "w": 16,
+  "phase": "taper",
+  "title": "Taper mezza",
+  "info": "",
+  "sessions": [
+   {
+    "d": 0,
+    "type": "gym",
+    "k": "gym",
+    "label": "Protocollo fisio + mobilità",
+    "desc": "Solo protocollo fisio e mobilità, niente carichi pesanti",
+    "note": "20 minuti. Opzionale ma è ciò che protegge il tendine"
+   },
+   {
+    "d": 1,
+    "type": "medium",
+    "k": "tempo",
+    "label": "Tempo run",
+    "km": 8,
+    "pace": "4:50",
+    "desc": "2 km riscaldamento + 5 km @ 4:50 (soglia) + 1 km defaticamento",
+    "note": "Fermati se il dolore supera 4/10 o cambia la falcata"
+   },
+   {
+    "d": 2,
+    "type": "calcio",
+    "k": "calcio",
+    "label": "Calcio a 7",
+    "desc": "Partita intera, se la caviglia regge",
+    "note": "Sali di minuti solo se nelle 24 h dopo la caviglia non peggiora"
+   },
+   {
+    "d": 4,
+    "type": "easy",
+    "k": "easy",
+    "label": "Corsa facile",
+    "km": 7,
+    "pace": "5:50",
+    "desc": "7 km facili @ 5:50 o più lento",
+    "note": "È l'uscita sacrificabile: se dopo il calcio caviglia o tendine protestano, accorciala o saltala"
+   },
+   {
+    "d": 6,
+    "type": "long",
+    "k": "long",
+    "label": "Lungo con finale a ritmo gara",
+    "km": 13,
+    "pace": "5:30",
+    "desc": "13 km: 9 @ 5:30 + ultimi 4 km @ 4:45 (ritmo mezza)",
+    "note": "Prova generale: colazione, scarpe e abbigliamento da gara"
+   }
+  ]
+ },
+ {
+  "w": 17,
+  "phase": "taper",
+  "title": "Taper mezza",
+  "info": "",
+  "sessions": [
+   {
+    "d": 0,
+    "type": "gym",
+    "k": "gym",
+    "label": "Protocollo fisio + mobilità",
+    "desc": "Solo protocollo fisio e mobilità, niente carichi pesanti",
+    "note": "20 minuti. Opzionale ma è ciò che protegge il tendine"
+   },
+   {
+    "d": 1,
+    "type": "hard",
+    "k": "rep",
+    "label": "Ripetute leggere 5×400 m",
+    "km": 6,
+    "pace": "4:00",
+    "desc": "2 km riscaldamento + 5×400 m @ 4:00 (recupero 1'30\" di corsetta) + 1 km defaticamento",
+    "note": "Fermati se il dolore supera 4/10 o cambia la falcata"
+   },
+   {
+    "d": 2,
+    "type": "calcio",
+    "k": "calcio",
+    "label": "Calcio a 7",
+    "desc": "Partita intera, se la caviglia regge",
+    "note": "A 10 giorni dalla mezza: gioca prudente o salta"
+   },
+   {
+    "d": 4,
+    "type": "medium",
+    "k": "hm",
+    "label": "Ritmo mezza breve",
+    "km": 6,
+    "pace": "4:45",
+    "desc": "6 km: 2 facili + 3 km @ 4:45 (ritmo mezza) + 1 facile",
+    "note": "Gambe fresche: deve sembrare facile"
+   },
+   {
+    "d": 6,
+    "type": "long",
+    "k": "long",
+    "label": "Lungo",
+    "km": 9,
+    "pace": "5:30",
+    "desc": "9 km @ 5:30",
+    "note": "Ultimo lungo: corto e sciolto"
+   }
+  ]
+ },
+ {
+  "w": 18,
+  "phase": "race",
+  "title": "MEZZA MARATONA 🏁",
+  "info": "",
+  "sessions": [
+   {
+    "d": 1,
+    "type": "easy",
+    "k": "easy",
+    "label": "Sblocco",
+    "km": 5,
+    "pace": "5:50",
+    "desc": "5 km facili @ 5:50 o più lento + 4 allunghi da 20\"",
+    "note": "Gambe leggere, niente fatica"
+   },
+   {
+    "d": 4,
+    "type": "easy",
+    "k": "easy",
+    "label": "Rifinitura",
+    "km": 4,
+    "pace": "5:50",
+    "desc": "4 km facili @ 5:50 o più lento + 3×100 m a ritmo gara (4:45)",
+    "note": "Ultimo stimolo prima della gara"
+   },
+   {
+    "d": 5,
+    "type": "rest",
+    "k": "rest",
+    "label": "Riposo pre-gara",
+    "desc": "Gambe su, carboidrati, idratazione, letto presto",
+    "note": "Prepara pettorale, scarpe e gel"
+   },
+   {
+    "d": 6,
+    "type": "race",
+    "k": "race",
+    "label": "GARA — Mezza Maratona",
+    "km": 21.1,
+    "pace": "4:45",
+    "desc": "21.1 km · passo obiettivo 4:45/km → 1h 40'",
+    "note": "Primi 3 km 5\" più lenti del passo gara, poi costante"
+   }
+  ]
+ }
+]
