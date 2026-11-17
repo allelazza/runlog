@@ -5,7 +5,7 @@
    - icone e font: prima la copia salvata, poi la rete
    - le chiamate a Google (Sheet) non passano mai dalla cache
    Quando cambi i file statici, aumenta il numero di versione qui sotto. */
-const CACHE='runlog-v10.1';
+const CACHE='runlog-v11.0';
 const BASE=['./','./manifest.webmanifest','./icon-192.png','./icon-512.png'];
 
 self.addEventListener('install',e=>{
